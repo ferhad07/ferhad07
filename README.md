@@ -1,9 +1,9 @@
 # Hi there, I'm Ferhad 👋
 
 ## 🎓 About Me
-- 🔭 I am a software developer based in Turkey, focusing on building secure and robust applications.
-- 🌱 I am deeply interested in software architecture, advanced algorithms, and system design.
-- 🔒 I value privacy, confidentiality, and writing high-quality, maintainable code.
+- 🔭 I am currently studying Healthcare Management at SNHU, but my true passion lies in Computer Science!
+- 🌱 I am a software developer based in Turkey, focusing on building secure and robust applications.
+- 🔒 I deeply value privacy, confidentiality, and writing high-quality, maintainable code.
 - 💬 Ask me about software development, secure coding practices, or backend systems!
 
 ## 🛠️ Languages and Tools
